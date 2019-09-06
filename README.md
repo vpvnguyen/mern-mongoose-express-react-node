@@ -1,1 +1,3 @@
-# mern-mongoose-express-react-node
+# MERN Stack Boiler (Mongoose, Express, React, Node)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
